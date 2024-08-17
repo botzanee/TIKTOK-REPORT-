@@ -1,0 +1,11 @@
+TERMUX GUIDE
+pkg upgrade && update
+pkg install python 
+pkg install requests
+git clone https://github.com/botzanee/TIKTOK-REPORT-.git
+cd TikTokREPORT.py
+python TikTokREPORT.py
+
+...... GENERATING.......
+
+I PROVIDE TUTORIAL FOR THOSE WHO GIVES PAYMENT ON HOW TO PASTE THE REQUESTED ELEMENT 😉 
